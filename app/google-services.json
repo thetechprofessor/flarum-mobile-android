@@ -1,3 +1,40 @@
 {
-
+  "project_info": {
+    "project_number": "1024487815918",
+    "firebase_url": "https://the-tech-professor-forum.firebaseio.com",
+    "project_id": "the-tech-professor-forum",
+    "storage_bucket": "the-tech-professor-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024487815918:android:9bd37fd84e79619fa291ff",
+        "android_client_info": {
+          "package_name": "com.jakebrownmediaproductions.thetechprofessorforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024487815918-mmhq6m281s50tbkk2pq3b0ffhskkaen8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANAE72uDfRfoDagMZ38SxLo_MQQWdrsfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024487815918-mmhq6m281s50tbkk2pq3b0ffhskkaen8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
